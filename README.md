@@ -1,6 +1,6 @@
 #This repository was copied: https://github.com/thewhiteh4t/seeker
 
-#Install:
+<h3>Install:</h3>
 
 pkg install git
 
