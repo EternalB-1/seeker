@@ -1,4 +1,4 @@
-#This repository was copied: https://github.com/thewhiteh4t/seeker
+<h3>This repository was copied: https://github.com/thewhiteh4t/seeker</h3>
 
 <h2>Install:</h2>
 
@@ -22,16 +22,16 @@ chmod +x ngrok
 
 ./ngrok authtoken your_token
 
-#Reboot console
+<h2>Reboot console</h2>
 
-#Use:
+<h2>Use:</h2>
 
 cd seeker
 
 python3 seeker.py -t manual
 
-#In new session:
+<h2>In new session:</h2>
 
 ngrok http 8080
 
-#If there was a reconnection error, turn on the wifi hotspot
+<h2>If there was a reconnection error, turn on the wifi hotspot</h2>
