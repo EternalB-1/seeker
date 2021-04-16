@@ -1,5 +1,3 @@
-<h3>This repository was copied: https://github.com/thewhiteh4t/seeker</h3>
-
 <h2>Install:</h2>
 
 pkg install git
@@ -35,3 +33,6 @@ python3 seeker.py -t manual
 ngrok http 8080
 
 <h2>If there was a reconnection error, turn on the wifi hotspot</h2>
+
+
+<h3>This repository was copied: https://github.com/thewhiteh4t/seeker</h3>
